@@ -1,0 +1,199 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa:400,700|Montserrat:400,700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #222222;
+}
+
+
+.hero-h1 {
+  display: inline-block;
+  padding: 10px;
+  margin: 5px;
+  background: #fff;
+  font-size: 50px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+}
+
+.hero-text {
+  position: absolute;
+  bottom: 5%;
+  right: -35%;
+  z-index: 10;
+}
+
+@media only screen and (max-width: 1190px) {
+  .hero-text {
+    display: none;
+  }
+}
+
+p, a {
+  font-family: 'Comfortaa', cursive;
+  font-size: 16px;
+}
+
+.App {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  background: #fff;
+}
+
+.hero-wrapper {
+  width: 40%;
+  height: 100vh;
+  position: relative;
+}
+
+.hero-wrapper img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.logo {
+  width: 120px;
+}
+
+.logo img {
+  width: 100%;
+}
+
+.main {
+  width: 60%;
+}
+
+.header {
+  width: 100%;
+  height: 10%;
+}
+
+nav {
+  display: flex;
+  width: 100%;
+  padding: 30px 30px;
+  justify-content: space-between;
+}
+
+.nav-links {
+  display: flex;
+  align-items: center;
+  width: 150px;
+  justify-content: space-between;
+}
+
+li {
+  list-style: none;
+}
+
+/* ============
+   FORM STYLING 
+   ============ */
+
+.form-wrapper {
+  display: flex;
+  width: 100%;
+  height: 80vh;
+  justify-content: center;
+  align-items: center; 
+}
+
+.form-content {
+  background: #f7f7f7;
+  padding: 60px 70px;
+  display: inline-block;
+  width: 500px;
+}
+
+input, button {
+  width: 100%;
+}
+
+input {
+  padding: 10px;
+  border: 1px solid #cccccc;
+}
+
+input[type=text], input[type=password], label, .form-button {
+  font-family: 'Comfortaa', cursive;
+}
+
+input[type=text]:focus, input[type=password]:focus {
+  outline-color: #FEDF0D;
+}
+
+button {
+  font-weight: 700;
+  padding: 13px;
+  background-color: #FEDF0D;
+  color: #fff;
+  font-size: 16px;
+  border: 2px solid #FEDF0D;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  transition: .2s ease-in;
+}
+
+button:hover {
+  background-color: #fff;
+  color: #FEDF0D;
+}
+
+input, button {
+  border-radius: 5px;
+}
+
+.form-button {
+  margin-top: 20px;
+}
+
+.input-wrapper {
+  margin-bottom: 20px;
+}
+
+.form-content h1 {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 22px;
+  color: #313131;
+  margin-bottom: 20px;
+}
+
+.form-content p {
+  margin-bottom: 30px;
+}
+
+@media only screen and (max-width: 950px) {
+  .hero-wrapper {
+    width: 100%;
+    height: 40vh;
+  }
+
+  .hero-wrapper img {
+    object-position: 50% 20%;
+  }
+
+  .App {
+    flex-direction: column;
+  }
+
+  .main {
+    width: 100%;
+    position: absolute;
+    top: 0;
+  }
+
+  .nav-links li {
+    color: #fff;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .form-content {
+    width: 85%;
+  }
+}
