@@ -5,6 +5,25 @@ import Header from '../components/header.jsx';
 //import {login} from "../utils/auth";
 
 export default class Login extends Component {
+
+    constructor (props) {
+        super(props)
+        this.state = {
+            userSession: { username: "",
+                           password: ""
+                },
+            error: null
+        }
+    }
+
+    handleInputChange (e) {
+        let userSessionCopy = {...this.state.userSession};
+        userSessionCopy[e.target.name] = e.target.value;
+        this.setState({
+            userSession: userSessionCopy 
+        });
+    }
+
     render() {
         debugger
         return (
@@ -24,7 +43,9 @@ export default class Login extends Component {
                                 <label className="">Username</label>
                                 <div className="">
                                     <input 
-                                        className="" 
+                                        className=""
+                                        onChange={this.handleInputChange}
+                                        value={this.state.username} 
                                         name="username" 
                                         type="text" 
                                         placeholder="username"
@@ -37,6 +58,8 @@ export default class Login extends Component {
                                 <div className="">
                                     <input 
                                         className="" 
+                                        onChange={this.handleInputChange}
+                                        value={this.state.password} 
                                         name="password" 
                                         type="password" 
                                         placeholder="password"
