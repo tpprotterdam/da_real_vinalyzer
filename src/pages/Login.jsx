@@ -2,9 +2,7 @@ import React, { Component } from 'react'
 import './Home.css';
 import SideHero from '../components/sideHero.jsx';
 import Header from '../components/header.jsx';
-import DefaultLayout from "../layout/Default";
-import Form from "../layout/Form";
-import {signup} from "../utils/auth";
+//import {login} from "../utils/auth";
 
 export default class Login extends Component {
     render() {
