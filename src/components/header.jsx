@@ -12,7 +12,7 @@ function Header() {
                 </div>
                 <ul className="nav-links">
                     <li><NavLink to="/auth/login" activeClassName="selected">Log in</NavLink></li>
-                    <li><NavLink to="/auth/signup"  activeClassName="selected">Sign up</NavLink></li>
+                    <li><NavLink to="/auth/signup" activeClassName="selected">Sign up</NavLink></li>
                 </ul>
             </nav>
         </div>
