@@ -23,9 +23,7 @@ export default class Wantlist extends Component {
   getWantList = () => {
     axios
       .get(
-
-        //`${process.env.REACT_APP_API_BASE}/discogs/wantlist/user/${this.state.username}`
-        `https://api.discogs.com/users/${this.state.username}/wants`
+        `${process.env.REACT_APP_API_BASE}/discogs/wantlist/user/${this.state.username}`
       )
       .then(response => {
 
@@ -83,7 +81,7 @@ export default class Wantlist extends Component {
                 //let albumUri = encodeURI(release.basic_information.title)
                 return (
                   <div className="info" key={index}>
-                    <Link to={encodeURIComponent(release.basic_information.title)}><img className="covers" src="../images/LP_vinyl3.png" alt="lp" /></Link>
+                    <Link to={encodeURIComponent(release.basic_information.title)}><img className="covers" src={release.basic_information.cover_image} alt="lp" /></Link>
 
                     <div className="">
                       <h3>
