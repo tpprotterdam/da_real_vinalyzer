@@ -66,19 +66,21 @@
     margin: 6px 24px 6px 0px; /* added margin */
 }
 
+button:focus{
+    outline:none;
+ }
+
 
 /* TEST///////////////////////////TEST///////////////////////////TEST///////////////////////////TEST */
 .covers {
-    width: 100%;
-    height: 200px
-    
-    
+    width: 200px;
+    height: 200px;
+    object-fit: cover;    
 }
 
 .covers:after {
     content:"";
     display: block;
-    padding-top: 100%
 }
 
 .tracklist {
@@ -90,3 +92,30 @@
 }
 
 /* TEST///////////////////////////TEST///////////////////////////TEST///////////////////////////TEST */
+
+@media only screen and (max-width: 950px) {
+    .intro, .discogs-input input[type=text] {
+        width: 100%;
+    }
+
+    .collection-wrapper {
+        margin-top: 25px;
+        width: 100%;
+    }
+
+    .covers {
+        width: 150px;
+        height: 150px;
+    }
+}
+
+@media only screen and (max-width: 650px) {
+    .info {
+        width: 40%;
+    }
+
+    .covers {
+        width: 200px;
+        height: 200px;
+    }
+}

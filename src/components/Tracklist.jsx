@@ -22,8 +22,8 @@ export default class Tracklist extends Component {
     getAlbumId = () => {
        
         axios.get(
-            `${process.env.REACT_APP_API_BASE}/spotify/album/${this.props.match.params.album_name}`
-            //`https://api.spotify.com/v1/search?q=thickfreakness&type=track`
+            
+            'https://api.spotify.com/v1/search?q=thickfreakness&type=track'
 
         )
             .then(response => {
@@ -41,7 +41,7 @@ export default class Tracklist extends Component {
 
     getTrackList = () => {
         axios.get(
-            `${process.env.REACT_APP_API_BASE}/spotify/album/tracklist/0GJH6shkenNdqkpGdsY8aa`
+            'https://api.spotify.com/v1/albums/0GJH6shkenNdqkpGdsY8aa/tracks'
         )
             .then(response => {
 

@@ -9,14 +9,15 @@ import { Route } from "react-router-dom";
 function App() {
   return (
     <div className="App">
-      <SideHero />
+      <div className="home-wrapper">
+        <SideHero />
 
-      <div className="main">
-        <Header />
-        <Route path="/auth/signup" component={Signup} />
-        <Route path="/auth/login" component={Login} />
+        <div className="main">
+          <Header />
+          <Route path="/auth/signup" component={Signup} />
+          <Route path="/auth/login" component={Login} />
+        </div>
       </div>
-
     </div>
   );
 }

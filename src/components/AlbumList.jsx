@@ -24,8 +24,7 @@ export default class Collection extends Component {
     getCollection = () => {
         axios
             .get(
-                `${process.env.REACT_APP_API_BASE}/discogs/collection/user/${this.state.username}`
-            )
+                'https://api.discogs.com/users/michaeltaart/collection/folders/0/releases')
             .then(response => {
 
                 this.setState({
@@ -46,6 +45,7 @@ export default class Collection extends Component {
         this.setState({
             username: e.target.value
         });
+        console.log("TEEEEEST", this.state.collection)
         
     }
 
@@ -78,16 +78,17 @@ export default class Collection extends Component {
                 <div className="release-output-wrapper">
                     <div className="release">
                         {this.state.collection.map((release, index) => {
-                            //{encodeURIComponent(release.basic_information.title)}
-                            
+
                             return (
                                 <div className="info" key={index}>
-                                    <Link to={`/collection/${release.basic_information.title}`}><img className="covers" src={release.basic_information.cover_image} alt="lp" /></Link>
+                                        <Link to={`/collection/${release.basic_information.title}`}>
+                                            <img className="covers" src="./images/LP_vinyl3.png" alt="lp" />
+                                        </Link>
 
                                     <div className="">
-                                        <h4>
+                                        <p><b>
                                             {release.basic_information.title}
-                                        </h4>
+                                        </b></p>
                                         <p>{release.basic_information.artists[0].name}</p>
                                     </div>
                                 </div>
