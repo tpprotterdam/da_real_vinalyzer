@@ -1,0 +1,1475 @@
+[
+        {
+            "instance_id": 431572890,
+            "date_added": "2020-01-21T06:32:31-08:00",
+            "basic_information": {
+                
+                "year": 2012,
+                "master_url": "https://api.discogs.com/masters/484590",
+                "artists": [
+                    {
+                        "join": "",
+                        "name": "Kendrick Lamar",
+                        "anv": "",
+                        "tracks": "",
+                        "role": "",
+                        "resource_url": "https://api.discogs.com/artists/1778977",
+                        "id": 1778977
+                    }
+                ],
+                "id": 4166261,
+                "thumb": "https://img.discogs.com/SZmHhS9gxuWfouc2_go5zOKzruY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4166261-1357639701-6266.jpeg.jpg",
+                "title": "Good Kid, M.A.A.d City",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "Album",
+                            "Deluxe Edition"
+                        ],
+                        "name": "CD",
+                        "qty": "2"
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/qEX10TI9IegeInOQguPI3rKBGXw=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4166261-1357639701-6266.jpeg.jpg",
+                "resource_url": "https://api.discogs.com/releases/4166261",
+                "master_id": 484590
+            },
+            "id": 4166261,
+            "rating": 0
+        },
+        {
+            "instance_id": 433784587,
+            "date_added": "2020-01-29T10:17:37-08:00",
+            "basic_information": {
+                "labels": [
+                    {
+                        "name": "BBE",
+                        "entity_type": "1",
+                        "catno": "BBEBGLP002",
+                        "resource_url": "https://api.discogs.com/labels/1006",
+                        "id": 1006,
+                        "entity_type_name": "Label"
+                    }
+                ],
+                "year": 2001,
+                "master_url": "https://api.discogs.com/masters/39258",
+                "artists": [
+                    {
+                        "join": "",
+                        "name": "Pete Rock",
+                        "anv": "",
+                        "tracks": "",
+                        "role": "",
+                        "resource_url": "https://api.discogs.com/artists/14295",
+                        "id": 14295
+                    }
+                ],
+                "id": 2008176,
+                "thumb": "https://img.discogs.com/FWJrGFaNECvYKR_8iXJQk84n-cQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2008176-1456563480-2026.jpeg.jpg",
+                "title": "PeteStrumentals",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "LP",
+                            "Album"
+                        ],
+                        "name": "Vinyl",
+                        "qty": "2"
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/vCGQr_eUbEBzUAV6su_BsqTnHU0=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2008176-1456563480-2026.jpeg.jpg",
+                "resource_url": "https://api.discogs.com/releases/2008176",
+                "master_id": 39258
+            },
+            "id": 2008176,
+            "rating": 0
+        },
+        {
+            "instance_id": 433693034,
+            "date_added": "2020-01-29T02:20:54-08:00",
+            "basic_information": {
+                "labels": [
+                    {
+                        "name": "Columbia",
+                        "entity_type": "1",
+                        "catno": "C 57684",
+                        "resource_url": "https://api.discogs.com/labels/1866",
+                        "id": 1866,
+                        "entity_type_name": "Label"
+                    }
+                ],
+                "year": 1994,
+                "master_url": "https://api.discogs.com/masters/20148",
+                "artists": [
+                    {
+                        "join": "",
+                        "name": "Nas",
+                        "anv": "",
+                        "tracks": "",
+                        "role": "",
+                        "resource_url": "https://api.discogs.com/artists/50997",
+                        "id": 50997
+                    }
+                ],
+                "id": 392604,
+                "thumb": "https://img.discogs.com/LC9iLW0NCXXYFzzTYT2TshDDl_8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-392604-1177019228.jpeg.jpg",
+                "title": "Illmatic",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "LP",
+                            "Album"
+                        ],
+                        "name": "Vinyl",
+                        "qty": "1"
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/z_2ZaMM6SeRNIJc210m3v8wnWb0=/fit-in/500x490/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-392604-1177019228.jpeg.jpg",
+                "resource_url": "https://api.discogs.com/releases/392604",
+                "master_id": 20148
+            },
+            "id": 392604,
+            "rating": 0
+        },
+        {
+            "instance_id": 433693355,
+            "date_added": "2020-01-29T02:23:10-08:00",
+            "basic_information": {
+                "labels": [
+                    {
+                        "name": "Decca",
+                        "entity_type": "1",
+                        "catno": "LK.4955",
+                        "resource_url": "https://api.discogs.com/labels/5320",
+                        "id": 5320,
+                        "entity_type_name": "Label"
+                    },
+                    {
+                        "name": "Decca",
+                        "entity_type": "1",
+                        "catno": "LK 4955",
+                        "resource_url": "https://api.discogs.com/labels/5320",
+                        "id": 5320,
+                        "entity_type_name": "Label"
+                    }
+                ],
+                "year": 1968,
+                "master_url": "https://api.discogs.com/masters/30220",
+                "artists": [
+                    {
+                        "join": "",
+                        "name": "The Rolling Stones",
+                        "anv": "Rolling Stones",
+                        "tracks": "",
+                        "role": "",
+                        "resource_url": "https://api.discogs.com/artists/20991",
+                        "id": 20991
+                    }
+                ],
+                "id": 5893267,
+                "thumb": "https://img.discogs.com/vm3f_FaQYK2sfJK_yhiYfPQ9l3c=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-5893267-1405599442-7738.jpeg.jpg",
+                "title": "Beggars Banquet",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "LP",
+                            "Album",
+                            "Mono"
+                        ],
+                        "text": "Gatefold",
+                        "name": "Vinyl",
+                        "qty": "1"
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/5DU_Kd2vC97jxoVnjGJiJCdnqUg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5893267-1405599442-7738.jpeg.jpg",
+                "resource_url": "https://api.discogs.com/releases/5893267",
+                "master_id": 30220
+            },
+            "id": 5893267,
+            "rating": 0
+        },
+        {
+            "instance_id": 432020871,
+            "date_added": "2020-01-23T02:17:06-08:00",
+            "basic_information": {
+                "labels": [
+                    {
+                        "name": "Epic",
+                        "entity_type": "1",
+                        "catno": "QE 38112",
+                        "resource_url": "https://api.discogs.com/labels/1005",
+                        "id": 1005,
+                        "entity_type_name": "Label"
+                    }
+                ],
+                "year": 1982,
+                "master_url": "https://api.discogs.com/masters/8883",
+                "artists": [
+                    {
+                        "join": "",
+                        "name": "Michael Jackson",
+                        "anv": "",
+                        "tracks": "",
+                        "role": "",
+                        "resource_url": "https://api.discogs.com/artists/15885",
+                        "id": 15885
+                    }
+                ],
+                "id": 2911293,
+                "thumb": "https://img.discogs.com/NIM5W_B0u7dC-b18l8sYAbLOASA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2911293-1516144154-5499.jpeg.jpg",
+                "title": "Thriller",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "LP",
+                            "Album"
+                        ],
+                        "text": "Pitman Pressing, Gatefold",
+                        "name": "Vinyl",
+                        "qty": "1"
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/rW1VrztL1-BKP5yMfGE3ke6nxyY=/fit-in/600x630/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2911293-1516144154-5499.jpeg.jpg",
+                "resource_url": "https://api.discogs.com/releases/2911293",
+                "master_id": 8883
+            },
+            "id": 2911293,
+            "rating": 0
+        },
+        {
+            "instance_id": 431762340,
+            "date_added": "2020-01-22T00:04:02-08:00",
+            "basic_information": {
+                "labels": [
+                    {
+                        "name": "Epic Associated",
+                        "entity_type": "1",
+                        "catno": "Z 52959",
+                        "resource_url": "https://api.discogs.com/labels/57469",
+                        "id": 57469,
+                        "entity_type_name": "Label"
+                    }
+                ],
+                "year": 1992,
+                "master_url": "https://api.discogs.com/masters/7939",
+                "artists": [
+                    {
+                        "join": "",
+                        "name": "Rage Against The Machine",
+                        "anv": "",
+                        "tracks": "",
+                        "role": "",
+                        "resource_url": "https://api.discogs.com/artists/12212",
+                        "id": 12212
+                    }
+                ],
+                "id": 367339,
+                "thumb": "https://img.discogs.com/XvilP_Wy8RPlwuHyvW14IBW9vAU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-367339-1259236115.jpeg.jpg",
+                "title": "Rage Against The Machine",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "LP",
+                            "Album"
+                        ],
+                        "name": "Vinyl",
+                        "qty": "1"
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/niu4F-B9BrpcoW0cQ_MOZiN_LoE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-367339-1259236115.jpeg.jpg",
+                "resource_url": "https://api.discogs.com/releases/367339",
+                "master_id": 7939
+            },
+            "id": 367339,
+            "rating": 0
+        },
+        {
+            "instance_id": 432020515,
+            "date_added": "2020-01-23T02:14:36-08:00",
+            "basic_information": {
+                "labels": [
+                    {
+                        "name": "Fat Possum Records",
+                        "entity_type": "1",
+                        "catno": "0371-1",
+                        "resource_url": "https://api.discogs.com/labels/33995",
+                        "id": 33995,
+                        "entity_type_name": "Label"
+                    },
+                    {
+                        "name": "Epitaph",
+                        "entity_type": "1",
+                        "catno": "0371-1",
+                        "resource_url": "https://api.discogs.com/labels/61599",
+                        "id": 61599,
+                        "entity_type_name": "Label"
+                    }
+                ],
+                "year": 2003,
+                "master_url": "https://api.discogs.com/masters/79402",
+                "artists": [
+                    {
+                        "join": "",
+                        "name": "The Black Keys",
+                        "anv": "",
+                        "tracks": "",
+                        "role": "",
+                        "resource_url": "https://api.discogs.com/artists/258372",
+                        "id": 258372
+                    }
+                ],
+                "id": 2981783,
+                "thumb": "https://img.discogs.com/xivuaN_M7i58q0IWloQiWQeRTWI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2981783-1310405972.jpeg.jpg",
+                "title": "Thickfreakness",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "LP",
+                            "Album"
+                        ],
+                        "name": "Vinyl",
+                        "qty": "1"
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/6WZJYQAVkZYgsqqQ7Qtc7KUvHiU=/fit-in/493x440/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2981783-1310405972.jpeg.jpg",
+                "resource_url": "https://api.discogs.com/releases/2981783",
+                "master_id": 79402
+            },
+            "id": 2981783,
+            "rating": 0
+        },
+        {
+            "instance_id": 433692754,
+            "date_added": "2020-01-29T02:18:12-08:00",
+            "basic_information": {
+                "labels": [
+                    {
+                        "name": "Heavenly Sweetness",
+                        "entity_type": "1",
+                        "catno": "HS115VL",
+                        "resource_url": "https://api.discogs.com/labels/64154",
+                        "id": 64154,
+                        "entity_type_name": "Label"
+                    }
+                ],
+                "year": 2014,
+                "master_url": "https://api.discogs.com/masters/731847",
+                "artists": [
+                    {
+                        "join": "",
+                        "name": "Guts",
+                        "anv": "",
+                        "tracks": "",
+                        "role": "",
+                        "resource_url": "https://api.discogs.com/artists/642245",
+                        "id": 642245
+                    }
+                ],
+                "id": 6075799,
+                "thumb": "https://img.discogs.com/4zQHOIwlYK774Jm9A3Kil2M-GjU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6075799-1418155081-2790.jpeg.jpg",
+                "title": "Hip Hop After All",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "LP",
+                            "Album"
+                        ],
+                        "name": "Vinyl",
+                        "qty": "2"
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/f_RZ2JalGxCz5wFLFpz4mRZwvhU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6075799-1418155081-2790.jpeg.jpg",
+                "resource_url": "https://api.discogs.com/releases/6075799",
+                "master_id": 731847
+            },
+            "id": 6075799,
+            "rating": 0
+        },
+        {
+            "instance_id": 433692776,
+            "date_added": "2020-01-29T02:18:29-08:00",
+            "basic_information": {
+                "labels": [
+                    {
+                        "name": "Heavenly Sweetness",
+                        "entity_type": "1",
+                        "catno": "HS148VL",
+                        "resource_url": "https://api.discogs.com/labels/64154",
+                        "id": 64154,
+                        "entity_type_name": "Label"
+                    }
+                ],
+                "year": 2016,
+                "master_url": "https://api.discogs.com/masters/980582",
+                "artists": [
+                    {
+                        "join": "",
+                        "name": "Guts",
+                        "anv": "",
+                        "tracks": "",
+                        "role": "",
+                        "resource_url": "https://api.discogs.com/artists/642245",
+                        "id": 642245
+                    }
+                ],
+                "id": 8327607,
+                "thumb": "https://img.discogs.com/YKbU1TGUeqakFWoMBz8T0D-PycA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8327607-1459438880-2468.jpeg.jpg",
+                "title": "Eternal",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "LP",
+                            "Album"
+                        ],
+                        "text": "180 Gram",
+                        "name": "Vinyl",
+                        "qty": "2"
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/9ruuNINE9VMqaX2a5JcI4h9FApU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8327607-1459438880-2468.jpeg.jpg",
+                "resource_url": "https://api.discogs.com/releases/8327607",
+                "master_id": 980582
+            },
+            "id": 8327607,
+            "rating": 0
+        },
+        {
+            "instance_id": 433692617,
+            "date_added": "2020-01-29T02:16:50-08:00",
+            "basic_information": {
+                "labels": [
+                    {
+                        "name": "Jive",
+                        "entity_type": "1",
+                        "catno": "01241-41490-1",
+                        "resource_url": "https://api.discogs.com/labels/2186",
+                        "id": 2186,
+                        "entity_type_name": "Label"
+                    }
+                ],
+                "year": 1993,
+                "master_url": "https://api.discogs.com/masters/45947",
+                "artists": [
+                    {
+                        "join": "",
+                        "name": "A Tribe Called Quest",
+                        "anv": "",
+                        "tracks": "",
+                        "role": "",
+                        "resource_url": "https://api.discogs.com/artists/3268",
+                        "id": 3268
+                    }
+                ],
+                "id": 93635,
+                "thumb": "https://img.discogs.com/PQr-4SHdAtDBWLCP8LHnGWomOfA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-93635-1497139174-2723.jpeg.jpg",
+                "title": "Midnight Marauders",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "LP",
+                            "Album"
+                        ],
+                        "text": "Green Frame",
+                        "name": "Vinyl",
+                        "qty": "1"
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/cXsIuxyu2LZKlbJKDaq_Fp-Om90=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-93635-1497139174-2723.jpeg.jpg",
+                "resource_url": "https://api.discogs.com/releases/93635",
+                "master_id": 45947
+            },
+            "id": 93635,
+            "rating": 0
+        },
+        {
+            "instance_id": 433784725,
+            "date_added": "2020-01-29T10:18:09-08:00",
+            "basic_information": {
+                "labels": [
+                    {
+                        "name": "Jive",
+                        "entity_type": "1",
+                        "catno": "ZL 74940",
+                        "resource_url": "https://api.discogs.com/labels/2186",
+                        "id": 2186,
+                        "entity_type_name": "Label"
+                    }
+                ],
+                "year": 1991,
+                "master_url": "https://api.discogs.com/masters/45922",
+                "artists": [
+                    {
+                        "join": "",
+                        "name": "A Tribe Called Quest",
+                        "anv": "",
+                        "tracks": "",
+                        "role": "",
+                        "resource_url": "https://api.discogs.com/artists/3268",
+                        "id": 3268
+                    }
+                ],
+                "id": 94800,
+                "thumb": "https://img.discogs.com/GNXWO_cDx1AM1B1_1LVLE9FORGY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-94800-1467721235-8229.jpeg.jpg",
+                "title": "The Low End Theory",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "LP",
+                            "Album"
+                        ],
+                        "name": "Vinyl",
+                        "qty": "1"
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/Na_71Y9oc_wwixsjzafZhfDWQZA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-94800-1467721235-8229.jpeg.jpg",
+                "resource_url": "https://api.discogs.com/releases/94800",
+                "master_id": 45922
+            },
+            "id": 94800,
+            "rating": 0
+        },
+        {
+            "instance_id": 432020240,
+            "date_added": "2020-01-23T02:12:30-08:00",
+            "basic_information": {
+                "labels": [
+                    {
+                        "name": "MCA Records",
+                        "entity_type": "1",
+                        "catno": "088 111 970-1",
+                        "resource_url": "https://api.discogs.com/labels/878",
+                        "id": 878,
+                        "entity_type_name": "Label"
+                    }
+                ],
+                "year": 2000,
+                "master_url": "https://api.discogs.com/masters/32409",
+                "artists": [
+                    {
+                        "join": "",
+                        "name": "Common",
+                        "anv": "",
+                        "tracks": "",
+                        "role": "",
+                        "resource_url": "https://api.discogs.com/artists/14014",
+                        "id": 14014
+                    }
+                ],
+                "id": 187055,
+                "thumb": "https://img.discogs.com/RZJtGNXH2KtqgAdR09Iby8D1eAM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-187055-1506856266-1376.jpeg.jpg",
+                "title": "Like Water For Chocolate",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "LP",
+                            "Album"
+                        ],
+                        "name": "Vinyl",
+                        "qty": "2"
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/aH678ZXEr_S93YviKnG_ZjQ1fi0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-187055-1506856266-1376.jpeg.jpg",
+                "resource_url": "https://api.discogs.com/releases/187055",
+                "master_id": 32409
+            },
+            "id": 187055,
+            "rating": 0
+        },
+        {
+            "instance_id": 433692851,
+            "date_added": "2020-01-29T02:19:13-08:00",
+            "basic_information": {
+                "labels": [
+                    {
+                        "name": "MCA Records",
+                        "entity_type": "1",
+                        "catno": "MCA2-11948",
+                        "resource_url": "https://api.discogs.com/labels/878",
+                        "id": 878,
+                        "entity_type_name": "Label"
+                    }
+                ],
+                "year": 1999,
+                "master_url": "https://api.discogs.com/masters/39713",
+                "artists": [
+                    {
+                        "join": "",
+                        "name": "The Roots",
+                        "anv": "",
+                        "tracks": "",
+                        "role": "",
+                        "resource_url": "https://api.discogs.com/artists/76894",
+                        "id": 76894
+                    }
+                ],
+                "id": 227016,
+                "thumb": "https://img.discogs.com/UmSKGKnUKkClP8x8ZutgU7lI8ok=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-227016-1446630559-6227.jpeg.jpg",
+                "title": "Things Fall Apart",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "LP",
+                            "Album"
+                        ],
+                        "name": "Vinyl",
+                        "qty": "2"
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/vwjrihvA701AqjEcGDAxQEkzpBg=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-227016-1446630559-6227.jpeg.jpg",
+                "resource_url": "https://api.discogs.com/releases/227016",
+                "master_id": 39713
+            },
+            "id": 227016,
+            "rating": 0
+        },
+        {
+            "instance_id": 431762498,
+            "date_added": "2020-01-22T00:06:10-08:00",
+            "basic_information": {
+                "labels": [
+                    {
+                        "name": "Music On Vinyl",
+                        "entity_type": "1",
+                        "catno": "MOVLP1111",
+                        "resource_url": "https://api.discogs.com/labels/169635",
+                        "id": 169635,
+                        "entity_type_name": "Label"
+                    },
+                    {
+                        "name": "Chrysalis",
+                        "entity_type": "1",
+                        "catno": "MOVLP1111",
+                        "resource_url": "https://api.discogs.com/labels/3198",
+                        "id": 3198,
+                        "entity_type_name": "Label"
+                    }
+                ],
+                "year": 2014,
+                "master_url": "https://api.discogs.com/masters/47622",
+                "artists": [
+                    {
+                        "join": "",
+                        "name": "Guru",
+                        "anv": "",
+                        "tracks": "",
+                        "role": "",
+                        "resource_url": "https://api.discogs.com/artists/3862",
+                        "id": 3862
+                    }
+                ],
+                "id": 5726711,
+                "thumb": "https://img.discogs.com/7IPt9ji-eH-_19BKVWjGEjYjDA0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-5726711-1402216250-1683.jpeg.jpg",
+                "title": "Jazzmatazz Volume 1",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "LP",
+                            "Album",
+                            "Reissue"
+                        ],
+                        "text": "180 g",
+                        "name": "Vinyl",
+                        "qty": "1"
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/nR0XCREaEFk3oHSoOjOxiwEAzbE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5726711-1402216250-1683.jpeg.jpg",
+                "resource_url": "https://api.discogs.com/releases/5726711",
+                "master_id": 47622
+            },
+            "id": 5726711,
+            "rating": 0
+        },
+        {
+            "instance_id": 432020440,
+            "date_added": "2020-01-23T02:13:57-08:00",
+            "basic_information": {
+                "labels": [
+                    {
+                        "name": "Northwestside Records",
+                        "entity_type": "1",
+                        "catno": "74321 44720 1",
+                        "resource_url": "https://api.discogs.com/labels/3808",
+                        "id": 3808,
+                        "entity_type_name": "Label"
+                    }
+                ],
+                "year": 1996,
+                "master_url": "https://api.discogs.com/masters/9258",
+                "artists": [
+                    {
+                        "join": "",
+                        "name": "Jay-Z",
+                        "anv": "Jaÿ-Z",
+                        "tracks": "",
+                        "role": "",
+                        "resource_url": "https://api.discogs.com/artists/21742",
+                        "id": 21742
+                    }
+                ],
+                "id": 7138677,
+                "thumb": "https://img.discogs.com/hWNUH0EKvWds5_2EW08X7carcnQ=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7138677-1434573647-3418.jpeg.jpg",
+                "title": "Reasonable Doubt",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "LP"
+                        ],
+                        "name": "Vinyl",
+                        "qty": "2"
+                    },
+                    {
+                        "descriptions": [
+                            "10\""
+                        ],
+                        "name": "Vinyl",
+                        "qty": "1"
+                    },
+                    {
+                        "descriptions": [
+                            "Limited Edition"
+                        ],
+                        "name": "All Media",
+                        "qty": "1"
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/2FIVvtWPRJhCNiclMJKcpgdUBaI=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7138677-1434573647-3418.jpeg.jpg",
+                "resource_url": "https://api.discogs.com/releases/7138677",
+                "master_id": 9258
+            },
+            "id": 7138677,
+            "rating": 0
+        },
+        {
+            "instance_id": 433784220,
+            "date_added": "2020-01-29T10:16:16-08:00",
+            "basic_information": {
+                "labels": [
+                    {
+                        "name": "Parlophone",
+                        "entity_type": "1",
+                        "catno": "7243 4 74786 1 1",
+                        "resource_url": "https://api.discogs.com/labels/2294",
+                        "id": 2294,
+                        "entity_type_name": "Label"
+                    }
+                ],
+                "year": 2005,
+                "master_url": "https://api.discogs.com/masters/26787",
+                "artists": [
+                    {
+                        "join": "",
+                        "name": "Coldplay",
+                        "anv": "",
+                        "tracks": "",
+                        "role": "",
+                        "resource_url": "https://api.discogs.com/artists/29735",
+                        "id": 29735
+                    }
+                ],
+                "id": 1044164,
+                "thumb": "https://img.discogs.com/JpmWYhKtM6uBZwwC3JS7e5BbGUU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1044164-1261586675.jpeg.jpg",
+                "title": "X&Y",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "LP",
+                            "Album"
+                        ],
+                        "name": "Vinyl",
+                        "qty": "2"
+                    },
+                    {
+                        "name": "Box Set",
+                        "qty": "1"
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/8DU18eoDECAVkqz5Ox1daIVsFYU=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1044164-1261586675.jpeg.jpg",
+                "resource_url": "https://api.discogs.com/releases/1044164",
+                "master_id": 26787
+            },
+            "id": 1044164,
+            "rating": 0
+        },
+        {
+            "instance_id": 431762387,
+            "date_added": "2020-01-22T00:04:46-08:00",
+            "basic_information": {
+                "labels": [
+                    {
+                        "name": "Parlophone",
+                        "entity_type": "1",
+                        "catno": "50999 212114 1 6",
+                        "resource_url": "https://api.discogs.com/labels/2294",
+                        "id": 2294,
+                        "entity_type_name": "Label"
+                    },
+                    {
+                        "name": "Parlophone",
+                        "entity_type": "1",
+                        "catno": "2121141",
+                        "resource_url": "https://api.discogs.com/labels/2294",
+                        "id": 2294,
+                        "entity_type_name": "Label"
+                    }
+                ],
+                "year": 2008,
+                "master_url": "https://api.discogs.com/masters/26600",
+                "artists": [
+                    {
+                        "join": "",
+                        "name": "Coldplay",
+                        "anv": "",
+                        "tracks": "",
+                        "role": "",
+                        "resource_url": "https://api.discogs.com/artists/29735",
+                        "id": 29735
+                    }
+                ],
+                "id": 1373719,
+                "thumb": "https://img.discogs.com/kAScbPwF7Nt-JUJOOXgEWc8HAq8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1373719-1424955835-3287.jpeg.jpg",
+                "title": "Viva La Vida Or Death And All His Friends",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "LP",
+                            "Album"
+                        ],
+                        "text": "Gatefold",
+                        "name": "Vinyl",
+                        "qty": "1"
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/bfX61JTB2K10piQXTqx1MrIqTbQ=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1373719-1424955835-3287.jpeg.jpg",
+                "resource_url": "https://api.discogs.com/releases/1373719",
+                "master_id": 26600
+            },
+            "id": 1373719,
+            "rating": 0
+        },
+        {
+            "instance_id": 433784168,
+            "date_added": "2020-01-29T10:16:02-08:00",
+            "basic_information": {
+                "labels": [
+                    {
+                        "name": "Parlophone",
+                        "entity_type": "1",
+                        "catno": "7243 5 27783 1 7",
+                        "resource_url": "https://api.discogs.com/labels/2294",
+                        "id": 2294,
+                        "entity_type_name": "Label"
+                    },
+                    {
+                        "name": "Parlophone",
+                        "entity_type": "1",
+                        "catno": "527 7831",
+                        "resource_url": "https://api.discogs.com/labels/2294",
+                        "id": 2294,
+                        "entity_type_name": "Label"
+                    }
+                ],
+                "year": 2000,
+                "master_url": "https://api.discogs.com/masters/3334",
+                "artists": [
+                    {
+                        "join": "",
+                        "name": "Coldplay",
+                        "anv": "",
+                        "tracks": "",
+                        "role": "",
+                        "resource_url": "https://api.discogs.com/artists/29735",
+                        "id": 29735
+                    }
+                ],
+                "id": 484030,
+                "thumb": "https://img.discogs.com/xzO9ltyRUX-GVBWmTTzt4lDUnIs=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-484030-1164747788.jpeg.jpg",
+                "title": "Parachutes",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "LP",
+                            "Album"
+                        ],
+                        "name": "Vinyl",
+                        "qty": "1"
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/VXHu_Good0AbwD-SbXJoSmPdZK8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-484030-1164747788.jpeg.jpg",
+                "resource_url": "https://api.discogs.com/releases/484030",
+                "master_id": 3334
+            },
+            "id": 484030,
+            "rating": 0
+        },
+        {
+            "instance_id": 433784259,
+            "date_added": "2020-01-29T10:16:23-08:00",
+            "basic_information": {
+                "labels": [
+                    {
+                        "name": "Parlophone",
+                        "entity_type": "1",
+                        "catno": "7243 5 40504 1 1",
+                        "resource_url": "https://api.discogs.com/labels/2294",
+                        "id": 2294,
+                        "entity_type_name": "Label"
+                    },
+                    {
+                        "name": "Parlophone",
+                        "entity_type": "1",
+                        "catno": "540 5041",
+                        "resource_url": "https://api.discogs.com/labels/2294",
+                        "id": 2294,
+                        "entity_type_name": "Label"
+                    }
+                ],
+                "year": 2002,
+                "master_url": "https://api.discogs.com/masters/3354",
+                "artists": [
+                    {
+                        "join": "",
+                        "name": "Coldplay",
+                        "anv": "",
+                        "tracks": "",
+                        "role": "",
+                        "resource_url": "https://api.discogs.com/artists/29735",
+                        "id": 29735
+                    }
+                ],
+                "id": 703741,
+                "thumb": "https://img.discogs.com/JaNxSJt1aKjo9TawWzAboQft1LY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-703741-1550399794-6079.jpeg.jpg",
+                "title": "A Rush Of Blood To The Head",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "LP",
+                            "Album"
+                        ],
+                        "name": "Vinyl",
+                        "qty": "1"
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/NjYikLWvv5mmEURdI14UNG6VfQA=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-703741-1550399794-6079.jpeg.jpg",
+                "resource_url": "https://api.discogs.com/releases/703741",
+                "master_id": 3354
+            },
+            "id": 703741,
+            "rating": 0
+        },
+        {
+            "instance_id": 433692928,
+            "date_added": "2020-01-29T02:20:02-08:00",
+            "basic_information": {
+                "labels": [
+                    {
+                        "name": "Rawkus",
+                        "entity_type": "1",
+                        "catno": "RWK-1159",
+                        "resource_url": "https://api.discogs.com/labels/1216",
+                        "id": 1216,
+                        "entity_type_name": "Label"
+                    }
+                ],
+                "year": 1999,
+                "master_url": "https://api.discogs.com/masters/66510",
+                "artists": [
+                    {
+                        "join": "",
+                        "name": "Mos Def",
+                        "anv": "",
+                        "tracks": "",
+                        "role": "",
+                        "resource_url": "https://api.discogs.com/artists/5648",
+                        "id": 5648
+                    }
+                ],
+                "id": 157592,
+                "thumb": "https://img.discogs.com/1poFW8dFI9T0IgNbeqoXTMFVyws=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-157592-1276773509.jpeg.jpg",
+                "title": "Black On Both Sides",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "LP",
+                            "Album"
+                        ],
+                        "name": "Vinyl",
+                        "qty": "2"
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/bJGvypSLXiAVE3uClXkZIAK8rrY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-157592-1276773509.jpeg.jpg",
+                "resource_url": "https://api.discogs.com/releases/157592",
+                "master_id": 66510
+            },
+            "id": 157592,
+            "rating": 0
+        },
+        {
+            "instance_id": 433692998,
+            "date_added": "2020-01-29T02:20:37-08:00",
+            "basic_information": {
+                "labels": [
+                    {
+                        "name": "RCA",
+                        "entity_type": "1",
+                        "catno": "07863 66336-1",
+                        "resource_url": "https://api.discogs.com/labels/895",
+                        "id": 895,
+                        "entity_type_name": "Label"
+                    },
+                    {
+                        "name": "Loud Records",
+                        "entity_type": "1",
+                        "catno": "07863 66336-1",
+                        "resource_url": "https://api.discogs.com/labels/8984",
+                        "id": 8984,
+                        "entity_type_name": "Label"
+                    },
+                    {
+                        "name": "Wu-Tang Records",
+                        "entity_type": "1",
+                        "catno": "07863 66336-1",
+                        "resource_url": "https://api.discogs.com/labels/19401",
+                        "id": 19401,
+                        "entity_type_name": "Label"
+                    }
+                ],
+                "year": 1993,
+                "master_url": "https://api.discogs.com/masters/25303",
+                "artists": [
+                    {
+                        "join": "",
+                        "name": "Wu-Tang Clan",
+                        "anv": "",
+                        "tracks": "",
+                        "role": "",
+                        "resource_url": "https://api.discogs.com/artists/11213",
+                        "id": 11213
+                    }
+                ],
+                "id": 153749,
+                "thumb": "https://img.discogs.com/cdPXYml9H22iqS9ba4QhQw-6Aiw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-153749-1185134135.jpeg.jpg",
+                "title": "Enter The Wu-Tang (36 Chambers)",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "LP",
+                            "Album"
+                        ],
+                        "name": "Vinyl",
+                        "qty": "1"
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/5IpjJjDMxLXKxkP2PPEXgaLvyUA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-153749-1185134135.jpeg.jpg",
+                "resource_url": "https://api.discogs.com/releases/153749",
+                "master_id": 25303
+            },
+            "id": 153749,
+            "rating": 0
+        },
+        {
+            "instance_id": 432020185,
+            "date_added": "2020-01-23T02:12:06-08:00",
+            "basic_information": {
+                "labels": [
+                    {
+                        "name": "Relativity",
+                        "entity_type": "1",
+                        "catno": "88561-1208-1",
+                        "resource_url": "https://api.discogs.com/labels/1952",
+                        "id": 1952,
+                        "entity_type_name": "Label"
+                    }
+                ],
+                "year": 1994,
+                "master_url": "https://api.discogs.com/masters/32375",
+                "artists": [
+                    {
+                        "join": "",
+                        "name": "Common",
+                        "anv": "Common Sense",
+                        "tracks": "",
+                        "role": "",
+                        "resource_url": "https://api.discogs.com/artists/14014",
+                        "id": 14014
+                    }
+                ],
+                "id": 249390,
+                "thumb": "https://img.discogs.com/tGF87FQBuRqFoM3yFffFNO23kH4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-249390-1312208507.jpeg.jpg",
+                "title": "Resurrection",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "LP",
+                            "Album"
+                        ],
+                        "name": "Vinyl",
+                        "qty": "1"
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/47Rn52NxmahBNcfT38-jiaZKEcc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-249390-1312208507.jpeg.jpg",
+                "resource_url": "https://api.discogs.com/releases/249390",
+                "master_id": 32375
+            },
+            "id": 249390,
+            "rating": 0
+        },
+        {
+            "instance_id": 433693130,
+            "date_added": "2020-01-29T02:21:48-08:00",
+            "basic_information": {
+                "labels": [
+                    {
+                        "name": "Rolling Stones Records",
+                        "entity_type": "1",
+                        "catno": "COC 69100",
+                        "resource_url": "https://api.discogs.com/labels/33962",
+                        "id": 33962,
+                        "entity_type_name": "Label"
+                    }
+                ],
+                "year": 1972,
+                "master_url": "https://api.discogs.com/masters/30303",
+                "artists": [
+                    {
+                        "join": "",
+                        "name": "The Rolling Stones",
+                        "anv": "Rolling Stones",
+                        "tracks": "",
+                        "role": "",
+                        "resource_url": "https://api.discogs.com/artists/20991",
+                        "id": 20991
+                    }
+                ],
+                "id": 375854,
+                "thumb": "https://img.discogs.com/Mu80HN5pnrJGpP0RdoSAUmF2imo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-375854-1449530370-7918.jpeg.jpg",
+                "title": "Exile On Main St.",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "LP",
+                            "Album"
+                        ],
+                        "text": "Postcards, grey TM",
+                        "name": "Vinyl",
+                        "qty": "2"
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/Bs2lp7xMF1JKDGNYNzezTI-i2-Y=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-375854-1449530370-7918.jpeg.jpg",
+                "resource_url": "https://api.discogs.com/releases/375854",
+                "master_id": 30303
+            },
+            "id": 375854,
+            "rating": 0
+        },
+        {
+            "instance_id": 433692703,
+            "date_added": "2020-01-29T02:17:45-08:00",
+            "basic_information": {
+                "labels": [
+                    {
+                        "name": "Stones Throw Records",
+                        "entity_type": "1",
+                        "catno": "STH2126",
+                        "resource_url": "https://api.discogs.com/labels/1217",
+                        "id": 1217,
+                        "entity_type_name": "Label"
+                    }
+                ],
+                "year": 2006,
+                "master_url": "https://api.discogs.com/masters/68208",
+                "artists": [
+                    {
+                        "join": "",
+                        "name": "J Dilla",
+                        "anv": "",
+                        "tracks": "",
+                        "role": "",
+                        "resource_url": "https://api.discogs.com/artists/324866",
+                        "id": 324866
+                    }
+                ],
+                "id": 619872,
+                "thumb": "https://img.discogs.com/LJe8GRIRObR5HJGYpo7ulia07Tc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-619872-1403276992-4522.jpeg.jpg",
+                "title": "Donuts",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "12\"",
+                            "33 ⅓ RPM",
+                            "Album"
+                        ],
+                        "name": "Vinyl",
+                        "qty": "2"
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/PT5jEDXCkx6F7QrCXASLPs43Qdc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-619872-1403276992-4522.jpeg.jpg",
+                "resource_url": "https://api.discogs.com/releases/619872",
+                "master_id": 68208
+            },
+            "id": 619872,
+            "rating": 0
+        },
+        {
+            "instance_id": 431762423,
+            "date_added": "2020-01-22T00:05:17-08:00",
+            "basic_information": {
+                "labels": [
+                    {
+                        "name": "Top Dawg Entertainment",
+                        "entity_type": "1",
+                        "catno": "00602547866813",
+                        "resource_url": "https://api.discogs.com/labels/255292",
+                        "id": 255292,
+                        "entity_type_name": "Label"
+                    },
+                    {
+                        "name": "Aftermath Entertainment",
+                        "entity_type": "1",
+                        "catno": "00602547866813",
+                        "resource_url": "https://api.discogs.com/labels/2310",
+                        "id": 2310,
+                        "entity_type_name": "Label"
+                    },
+                    {
+                        "name": "Interscope Records",
+                        "entity_type": "1",
+                        "catno": "00602547866813",
+                        "resource_url": "https://api.discogs.com/labels/2311",
+                        "id": 2311,
+                        "entity_type_name": "Label"
+                    }
+                ],
+                "year": 2016,
+                "master_url": "https://api.discogs.com/masters/970164",
+                "artists": [
+                    {
+                        "join": "",
+                        "name": "Kendrick Lamar",
+                        "anv": "",
+                        "tracks": "",
+                        "role": "",
+                        "resource_url": "https://api.discogs.com/artists/1778977",
+                        "id": 1778977
+                    }
+                ],
+                "id": 8566870,
+                "thumb": "https://img.discogs.com/nVRnuRlZK-TxLMPLmN0CZUtRNoY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8566870-1464368970-5711.jpeg.jpg",
+                "title": "Untitled Unmastered.",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "LP",
+                            "Album"
+                        ],
+                        "name": "Vinyl",
+                        "qty": "1"
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/4yTkr_qw3TuKblxtcoKUBKspV7E=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8566870-1464368970-5711.jpeg.jpg",
+                "resource_url": "https://api.discogs.com/releases/8566870",
+                "master_id": 970164
+            },
+            "id": 8566870,
+            "rating": 0
+        },
+        {
+            "instance_id": 432020571,
+            "date_added": "2020-01-23T02:14:56-08:00",
+            "basic_information": {
+                "labels": [
+                    {
+                        "name": "TopNotch",
+                        "entity_type": "1",
+                        "catno": "3795870 / TN141212\"",
+                        "resource_url": "https://api.discogs.com/labels/31862",
+                        "id": 31862,
+                        "entity_type_name": "Label"
+                    },
+                    {
+                        "name": "Fakkelteitgroep",
+                        "entity_type": "1",
+                        "catno": "FTGLP14001",
+                        "resource_url": "https://api.discogs.com/labels/741535",
+                        "id": 741535,
+                        "entity_type_name": "Label"
+                    }
+                ],
+                "year": 2014,
+                "master_url": "https://api.discogs.com/masters/735193",
+                "artists": [
+                    {
+                        "join": "",
+                        "name": "Typhoon (4)",
+                        "anv": "",
+                        "tracks": "",
+                        "role": "",
+                        "resource_url": "https://api.discogs.com/artists/295213",
+                        "id": 295213
+                    }
+                ],
+                "id": 6105190,
+                "thumb": "https://img.discogs.com/pFeDUXxK-TXXGmwbE5Oy1qQiC20=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6105190-1574507329-3138.jpeg.jpg",
+                "title": "Lobi Da Basi",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "LP",
+                            "Album"
+                        ],
+                        "name": "Vinyl",
+                        "qty": "1"
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/1dbL4oS7sqvZ0AG9C6P6Xc4OSAQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6105190-1574507329-3138.jpeg.jpg",
+                "resource_url": "https://api.discogs.com/releases/6105190",
+                "master_id": 735193
+            },
+            "id": 6105190,
+            "rating": 0
+        },
+        {
+            "instance_id": 433693549,
+            "date_added": "2020-01-29T02:24:38-08:00",
+            "basic_information": {
+                "labels": [
+                    {
+                        "name": "Track Record",
+                        "entity_type": "1",
+                        "catno": "612 001",
+                        "resource_url": "https://api.discogs.com/labels/50693",
+                        "id": 50693,
+                        "entity_type_name": "Label"
+                    }
+                ],
+                "year": 1967,
+                "master_url": "https://api.discogs.com/masters/24497",
+                "artists": [
+                    {
+                        "join": "",
+                        "name": "The Jimi Hendrix Experience",
+                        "anv": "",
+                        "tracks": "",
+                        "role": "",
+                        "resource_url": "https://api.discogs.com/artists/255672",
+                        "id": 255672
+                    }
+                ],
+                "id": 993028,
+                "thumb": "https://img.discogs.com/LLe_TodzVM5Ucr3HdDej8Oq2wn8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-993028-1576333201-8530.jpeg.jpg",
+                "title": "Are You Experienced",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "LP",
+                            "Album",
+                            "Mono"
+                        ],
+                        "name": "Vinyl",
+                        "qty": "1"
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/Akf9IrDSo9iBiBzrILE1LFk66H8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-993028-1576333201-8530.jpeg.jpg",
+                "resource_url": "https://api.discogs.com/releases/993028",
+                "master_id": 24497
+            },
+            "id": 993028,
+            "rating": 0
+        },
+        {
+            "instance_id": 432020302,
+            "date_added": "2020-01-23T02:12:56-08:00",
+            "basic_information": {
+                "labels": [
+                    {
+                        "name": "Track Record",
+                        "entity_type": "1",
+                        "catno": "613 003",
+                        "resource_url": "https://api.discogs.com/labels/50693",
+                        "id": 50693,
+                        "entity_type_name": "Label"
+                    }
+                ],
+                "year": 1967,
+                "master_url": "https://api.discogs.com/masters/24511",
+                "artists": [
+                    {
+                        "join": "",
+                        "name": "The Jimi Hendrix Experience",
+                        "anv": "",
+                        "tracks": "",
+                        "role": "",
+                        "resource_url": "https://api.discogs.com/artists/255672",
+                        "id": 255672
+                    }
+                ],
+                "id": 1197114,
+                "thumb": "https://img.discogs.com/OQqcTI1sRjTpynTqaKHh4blvOks=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1197114-1368135151-6381.jpeg.jpg",
+                "title": "Axis: Bold As Love",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "LP",
+                            "Album",
+                            "Stereo"
+                        ],
+                        "text": "Gatefold",
+                        "name": "Vinyl",
+                        "qty": "1"
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/U-NfHAW6EZIpF_3xDhdhImvx2Gw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1197114-1368135151-6381.jpeg.jpg",
+                "resource_url": "https://api.discogs.com/releases/1197114",
+                "master_id": 24511
+            },
+            "id": 1197114,
+            "rating": 0
+        },
+        {
+            "instance_id": 433693496,
+            "date_added": "2020-01-29T02:24:12-08:00",
+            "basic_information": {
+                "labels": [
+                    {
+                        "name": "Track Record",
+                        "entity_type": "1",
+                        "catno": "613008/9",
+                        "resource_url": "https://api.discogs.com/labels/50693",
+                        "id": 50693,
+                        "entity_type_name": "Label"
+                    }
+                ],
+                "year": 1968,
+                "master_url": "https://api.discogs.com/masters/24535",
+                "artists": [
+                    {
+                        "join": "",
+                        "name": "The Jimi Hendrix Experience",
+                        "anv": "",
+                        "tracks": "",
+                        "role": "",
+                        "resource_url": "https://api.discogs.com/artists/255672",
+                        "id": 255672
+                    }
+                ],
+                "id": 538440,
+                "thumb": "https://img.discogs.com/6CKBXBdtDCk2uBGJV7he51MhC38=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-538440-1283807568.jpeg.jpg",
+                "title": "Electric Ladyland",
+                "formats": [
+                    {
+                        "descriptions": [
+                            "LP",
+                            "Album"
+                        ],
+                        "text": "White Text, Gatefold",
+                        "name": "Vinyl",
+                        "qty": "2"
+                    }
+                ],
+                "cover_image": "https://img.discogs.com/D9TM7LZ6-16oswBXZb5qArInkpQ=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-538440-1283807568.jpeg.jpg",
+                "resource_url": "https://api.discogs.com/releases/538440",
+                "master_id": 24535
+            },
+            "id": 538440,
+            "rating": 0
+        }
+    ]

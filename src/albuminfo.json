@@ -1,0 +1,123 @@
+[
+            {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7mnBLXK823vNxN3UWB7Gfz",
+                        "id": "7mnBLXK823vNxN3UWB7Gfz",
+                        "name": "The Black Keys",
+                        "type": "artist",
+                        "uri": "spotify:artist:7mnBLXK823vNxN3UWB7Gfz"
+                    }
+                ],
+                "available_markets": [
+                    "AD",
+                    "AE",
+                    "AR",
+                    "AT",
+                    "BE",
+                    "BG",
+                    "BH",
+                    "BO",
+                    "BR",
+                    "CA",
+                    "CH",
+                    "CL",
+                    "CO",
+                    "CR",
+                    "CY",
+                    "CZ",
+                    "DE",
+                    "DK",
+                    "DO",
+                    "DZ",
+                    "EC",
+                    "EE",
+                    "EG",
+                    "ES",
+                    "FI",
+                    "FR",
+                    "GB",
+                    "GR",
+                    "GT",
+                    "HK",
+                    "HN",
+                    "HU",
+                    "ID",
+                    "IE",
+                    "IL",
+                    "IS",
+                    "IT",
+                    "JO",
+                    "JP",
+                    "KW",
+                    "LB",
+                    "LI",
+                    "LT",
+                    "LU",
+                    "LV",
+                    "MA",
+                    "MC",
+                    "MT",
+                    "MX",
+                    "MY",
+                    "NI",
+                    "NL",
+                    "NO",
+                    "OM",
+                    "PA",
+                    "PE",
+                    "PH",
+                    "PL",
+                    "PS",
+                    "PT",
+                    "PY",
+                    "QA",
+                    "RO",
+                    "SA",
+                    "SE",
+                    "SG",
+                    "SK",
+                    "SV",
+                    "TH",
+                    "TN",
+                    "TR",
+                    "TW",
+                    "US",
+                    "UY",
+                    "VN",
+                    "ZA"
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/0GJH6shkenNdqkpGdsY8aa"
+                },
+                "href": "https://api.spotify.com/v1/albums/0GJH6shkenNdqkpGdsY8aa",
+                "id": "0GJH6shkenNdqkpGdsY8aa",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2739e77e076882eb529a3c16112",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e029e77e076882eb529a3c16112",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048519e77e076882eb529a3c16112",
+                        "width": 64
+                    }
+                ],
+                "name": "Thickfreakness",
+                "release_date": "2003",
+                "release_date_precision": "year",
+                "total_tracks": 11,
+                "type": "album",
+                "uri": "spotify:album:0GJH6shkenNdqkpGdsY8aa"
+            }
+        ]
