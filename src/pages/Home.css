@@ -76,9 +76,13 @@ p, a {
 
 nav {
   display: flex;
-  width: 100%;
+  width: 60%;
   padding: 20px 30px;
   justify-content: space-between;
+  position: fixed;
+  top: 0;
+  background: #fff;
+  z-index: 10;
 }
 
 .nav-links {
@@ -96,8 +100,19 @@ a {
   text-decoration: none;
 }
 
+.navlinks li a:before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 3px;
+  bottom: 0;
+  left: 0;
+  background-color: #FEDF0D;
+  visibility: hidden;
+}
+
 .selected {
-  color: #FEDF0D;
+  visibility: visible !important;
 }
 
 /* ============
@@ -181,6 +196,11 @@ button:focus{
   margin-bottom: 30px;
 }
 
+.tracklist {
+  position: absolute;
+  top: 100px;;
+  right: 0;
+}
 @media only screen and (max-width: 950px) {
   .hero-wrapper {
     width: 100%;

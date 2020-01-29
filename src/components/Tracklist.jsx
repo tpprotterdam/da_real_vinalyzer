@@ -22,16 +22,22 @@ export default class Tracklist extends Component {
     render() {
 
         return (
-            <div className="tracklist">
-                <div className="release" >
-                    <div>
-                        <img src="/images/dummy.jpeg"/>
-                        <h2>Thickfreakness</h2>
-                        <h3>The Black Keys</h3>
-
+            <div className="tracklist-wrapper">
+                <div className="tracklist" >
+                    <div className="tracklist-header">
+                        <div className="tracklist-img">
+                            <img src="/images/dummy.jpeg"/>
+                        </div>
+                        <div className="tracklist-title">
+                            <h2>Thickfreakness</h2>
+                            <h3>The Black Keys</h3>
+                        </div>
+                    </div>
+                        
+                    <div className="tracklist-output">
                         {tracklist.map((track, index) =>
-                            <p key={index}>{index + 1}. {track.name}</p>
-                        )}
+                        <p key={index}>{index + 1}. {track.name}</p>
+                    )}
                     </div>
                 </div>
             </div>

@@ -41,9 +41,9 @@ export default class Collection extends Component {
                     <div className="release">
                         {collection.map((release, index) => {
                             return (
-                                <div className="info" key={index}>
+                                <div className="release-details" key={index}>
                                         <Link to={`/collection/${release.basic_information.title}`}>
-                                            <img className="covers" src={release.basic_information.cover_image} alt="lp" />
+                                            <img className="cover" src={release.basic_information.cover_image} alt="lp" />
                                         </Link>
 
                                     <div className="">
