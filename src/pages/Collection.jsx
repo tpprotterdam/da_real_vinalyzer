@@ -14,7 +14,7 @@ export default class Collection extends Component {
     //let albumUri = encodeURI(this.state.album)
     return (
       <div className="page-wrapper">
-        <Navbar />
+        <Navbar/>
         <AlbumList />
         <Route path="/collection/:album_name" component={Tracklist} />
 
