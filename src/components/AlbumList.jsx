@@ -29,7 +29,7 @@ export default class Collection extends Component {
                             type="text"
                             placeholder="Search by Discogs username"
                         />
-                        <button>Search</button>
+                        <button className="search-button">Search</button>
                     </div>
 
                 </div>
@@ -39,6 +39,14 @@ export default class Collection extends Component {
 
                 <div className="release-output-wrapper">
                     <div className="release">
+                    <input className="input" type="text" placeholder="Search"></input>
+                        <div className="sort">
+                            <button className="sort-button">Sort by album name</button>
+                            <button className="sort-button sort-button-active">Sort by artist name</button>
+                        </div>
+                        
+                        
+
                         {collection.map((release, index) => {
                             return (
                                 <div className="release-details" key={index}>

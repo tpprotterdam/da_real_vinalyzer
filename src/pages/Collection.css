@@ -149,3 +149,32 @@ button:focus{
 @media only screen and (max-width: 650px) {
     
 }
+
+/* SORT BUTTONs AND SEARCH FIELD */
+
+.sort {
+    display: flex;
+    width: 100%;
+    justify-content: flex-end;
+}
+
+.sort-button {
+    width: auto;
+    border-radius: 0px;
+    font-size: 11px;
+    background-color: #222222;
+    border: 2px solid #222222;    
+    margin-bottom: 30px;
+    font-weight: normal;
+    transition: 0s;
+}
+
+.sort-button-active {
+    background-color: #fff;
+    color: #222222;
+}
+
+
+.input {
+    margin-bottom: 30px;
+}
