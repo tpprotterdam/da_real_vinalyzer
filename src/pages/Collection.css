@@ -178,3 +178,7 @@ button:focus{
 .input {
     margin-bottom: 30px;
 }
+
+.sort, .input {
+    margin-right: 70px;
+}
