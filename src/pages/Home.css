@@ -7,9 +7,6 @@
   color: #222222;
 }
 
-/*OKEOKEOKEOKE*/
-
-
 .hero-h1 {
   display: inline-block;
   padding: 10px;
@@ -33,7 +30,8 @@
   }
 }
 
-p, a {
+p,
+a {
   font-family: 'Comfortaa', cursive;
   font-size: 16px;
 }
@@ -76,7 +74,7 @@ p, a {
 
 nav {
   display: flex;
-  width: 60%;
+  width: 100%;
   padding: 20px 30px;
   justify-content: space-between;
   position: fixed;
@@ -85,11 +83,15 @@ nav {
   z-index: 10;
 }
 
+.header {
+  width: 60%;
+}
+
 .nav-links {
   display: flex;
   align-items: center;
-  width: 150px;
-  justify-content: space-between;
+  width: 200px;
+  justify-content: space-around;
 }
 
 li {
@@ -123,7 +125,7 @@ a {
   width: 100%;
   height: 80vh;
   justify-content: center;
-  align-items: center; 
+  align-items: center;
 }
 
 .form-content {
@@ -133,7 +135,8 @@ a {
   width: 500px;
 }
 
-input, button {
+input,
+button {
   width: 100%;
 }
 
@@ -142,11 +145,15 @@ input {
   border: 1px solid #cccccc;
 }
 
-input[type=text], input[type=password], label, .form-button {
+input[type=text],
+input[type=password],
+label,
+.form-button {
   font-family: 'Comfortaa', cursive;
 }
 
-input[type=text]:focus, input[type=password]:focus {
+input[type=text]:focus,
+input[type=password]:focus {
   outline-color: #FEDF0D;
 }
 
@@ -167,12 +174,13 @@ button {
   color: #FEDF0D;
 }
 
-input, button {
+input,
+button {
   border-radius: 5px;
 }
 
-button:focus{
-  outline:none;
+button:focus {
+  outline: none;
 }
 
 .form-button {
@@ -197,9 +205,11 @@ button:focus{
 
 .tracklist {
   position: absolute;
-  top: 100px;;
+  top: 100px;
+  ;
   right: 0;
 }
+
 @media only screen and (max-width: 950px) {
   .hero-wrapper {
     width: 100%;

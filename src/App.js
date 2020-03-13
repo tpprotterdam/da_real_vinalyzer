@@ -6,7 +6,7 @@ import Collection from "./pages/Collection.jsx";
 //import Signup from "./pages/Signup.jsx";
 //import Login from "./pages/Login.jsx";
 import Tracklist from "./components/Tracklist.jsx";
-import Wantlist from "./pages/Wantlist.jsx";
+//import Wantlist from "./pages/Wantlist.jsx";
 
 //import testApi from "./pages/testApi.jsx"; //TESTAPI
 //import getTracks from "./pages/getTracks.jsx";
@@ -20,7 +20,7 @@ export default class App extends Component {
         <Switch>
           <Route path="/" exact component={Home} />
           <Route path="/collection" component={Collection} />
-          <Route path="wantlist" component={Wantlist} />
+          {/* <Route path="wantlist" component={Wantlist} /> */}
           <Route path="/auth/" component={Home} />
           <Route path="/tracklist" component={Tracklist} />
           {/* <Route path="/tracks" exact component={getTracks} /> */}
